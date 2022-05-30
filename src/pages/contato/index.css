@@ -1,0 +1,13 @@
+
+body {
+    background-image: url("https://www.escoladefeltro.com.br/wp-content/uploads/2019/02/fundo-site-certo.png");
+    font-size: 26px;
+}
+a{
+    font-family: roboto;
+    font-weight: 700;
+    background-color: rgb(27, 65, 61);
+    color: white;
+    padding: 10px 30px;
+    border-radius: 20px;
+    text-decoration: none;}
